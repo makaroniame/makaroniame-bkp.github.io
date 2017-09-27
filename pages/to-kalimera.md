@@ -1,7 +1,7 @@
 ---
 title: "το καλημέρα"
 permalink: /to-kalimera/
-type: pages
+layout: pages
 ---
 Το πρώτο λογοπαίγνιο
 
