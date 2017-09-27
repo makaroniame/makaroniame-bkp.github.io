@@ -113,8 +113,8 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - /pages
-  - /blog
+  - /_pages
+  - /_blog
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -139,8 +139,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /pages
-  - /blog
 #  - /docs # ignore Minimal Mistakes /docs
 #  - /test # ignore Minimal Mistakes /test
 keep_files:
