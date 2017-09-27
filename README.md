@@ -11,5 +11,5 @@
 
 ### LICENSE
 
-Everything under `/pages` and `/blog` is my intellectual property. Please *notify* me or *credit* me if you use it!
+Everything under `/pages` and `/_posts` is my intellectual property. Please *notify* me or *credit* me if you use it!
 Για μια υστεροφημία ζούμε.
