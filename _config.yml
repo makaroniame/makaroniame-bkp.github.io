@@ -113,7 +113,8 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - /pages
+  - /blog
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
