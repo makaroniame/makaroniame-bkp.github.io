@@ -1,6 +1,6 @@
 ---
 title: "το καλημέρα"
-permalink: /to-kalimera/
+permalink: "/to-kalimera/"
 excerpt: "Συστάσεις του δημιουργού εμπνευστή κτλ, κτλ..."
 ---
 Το πρώτο λογοπαίγνιο
