@@ -1,6 +1,7 @@
 ---
 title: "αγάπη απ'το Άμπου Ντάμπι"
-permalink: /agapi-apto-abu-dhabi/
+permalink: "/agapi-apto-abu-dhabi/"
+excerpt: "σκέψεις επιστροφής από ταξίδι επαγγελματικής φύσης, ξέρω 'γω" 
 ---
 
 # αγάπη απ'το Άμπου Ντάμπι
