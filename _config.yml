@@ -138,8 +138,10 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - /pages
+  - /blog
+#  - /docs # ignore Minimal Mistakes /docs
+#  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -232,7 +234,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
 
 # Defaults
 defaults:
