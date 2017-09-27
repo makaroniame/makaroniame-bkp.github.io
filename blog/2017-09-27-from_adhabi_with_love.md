@@ -2,7 +2,7 @@
 title: "αγάπη απ'το Άμπου Ντάμπι"
 permalink: "/agapi-apto-abu-dhabi/"
 excerpt: "σκέψεις επιστροφής από ταξίδι επαγγελματικής φύσης, ξέρω 'γω" 
-type: posts
+layout: posts
 ---
 # αγάπη απ'το Άμπου Ντάμπι
 
