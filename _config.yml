@@ -241,7 +241,7 @@ compress_html:
 defaults:
   # blog
   - scope:
-      path: "/blog"
+#      path: "/blog"
       type: posts
     values:
       layout: single
@@ -253,7 +253,7 @@ defaults:
 
   # pages
   - scope:
-      path: "/pages"
+#      path: "/pages"
       type: pages
     values:
       layout: single
