@@ -11,13 +11,13 @@ type: page
 
 Τσιγάρα δεν είχαν μείνει για δείγμα και τα μπουκάλια της μπύρας είχαν αδειάσει στο στομάχι μου και στο πάτωμα. Το κορίτσι που μού 'κανε παρέα το βράδυ είχε μαζέψει το σπίτι όσο μπορουσε και είχε φύγει. Μ'άφησε το τηλέφωνό της σε ένα χαρτάκι και μία ζωγραφιά στον καθρέφτη (επισυνάπτεται). Πουθενά δεν έβρισκα το τετράδιο με τα ποίματά μου, οπότε και γράφω στο περιθώριο της εφημερίδας.
 
-![<καθρέφτης>](https://raw.githubusercontent.com/makaroniame/makaroniame.github.io/master/assets/images/kathreftis_odoiporiko1.jpg)
+![καθρέφτης](https://raw.githubusercontent.com/makaroniame/makaroniame.github.io/master/assets/images/kathreftis_odoiporiko1.jpg)
 
 Έπρεπε να πεταχτώ μέχρι το ντέλι να πάρω καμιά μπύρα και σερβιέτες. Τις κολλάω στους αστραγάλους γιατί αυτά τα παλιοπάππουτσα έχουν σκληρύνει και με χτυπάνε σα διάολοι. Και είναι φτηνότερες από καινούργια παππούτσια.
 
 Πριν σηκωθώ έβαλα τα πόδια μου να βγάλουν μια σέλφι (επισυνάπτεται).
 
-![<πόδια>](https://raw.githubusercontent.com/makaroniame/makaroniame.github.io/master/assets/images/podia_odoiporiko1.jpg)
+![πόδια](https://raw.githubusercontent.com/makaroniame/makaroniame.github.io/master/assets/images/podia_odoiporiko1.jpg)
 
 
 Αυτή η γειτονιά είναι όλο τζαναμπέτηδες παππούδες, που αν ψάξεις στο σπίτι τους θα βρεις σίγουρα δυο-τρία κουμπούρια και καμιά κρυμμένη σημαία των Νοτίων. Πρώην καμπόιδες και προστάτες σπιτιών. Με άλλα λόγια - επικίντυνοι.
