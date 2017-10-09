@@ -1,6 +1,6 @@
 ---
 title: "Ασιατική ζέστη"
-permalink: /asiatiki_zesth/
+permalink: /asiatiki-zesth/
 author: true
 ---
 
