@@ -1,7 +1,7 @@
 ---
 title: "αγάπη απ'το Άμπου Ντάμπι"
 permalink: /agapi-apto-abu-dhabi/
-type: "posts"
+type: posts
 author: true
 ---
 
