@@ -1,7 +1,6 @@
 ---
 title: "Ατυχής αιώρηση"
 permalink: /tin_adiki_katara/
-type: posts
 author: true
 ---
 
