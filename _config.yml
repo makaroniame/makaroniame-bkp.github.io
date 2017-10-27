@@ -253,7 +253,7 @@ defaults:
 
   # pages
   - scope:
-#      path: "/pages"
+      path: "/pages"
       type: pages
     values:
       layout: single
