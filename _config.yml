@@ -113,7 +113,7 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - /pages
+  - /_pages
   - /blog
   - /assets
   - /_posts
@@ -241,8 +241,8 @@ compress_html:
 defaults:
   # blog
   - scope:
-      path: "/_posts"
       type: posts
+      path: ""
     values:
       layout: single
       author_profile: true
@@ -250,11 +250,10 @@ defaults:
       comments: # true
       share: true
       related: true
-
   # pages
   - scope:
-#      path: "/pages"
       type: pages
+      path: ""
     values:
       layout: single
       author_profile: false
