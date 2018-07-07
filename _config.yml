@@ -253,7 +253,7 @@ defaults:
   # pages
   - scope:
       type: pages
-      path: "_pages"
+      path: ""
     values:
       layout: single
       author_profile: false
