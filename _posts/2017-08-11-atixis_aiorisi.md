@@ -1,6 +1,6 @@
 ---
-title: "Μια ατυχή αιώρηση"
-permalink: /tin-adiki-katara/
+title: "Μια ατυχής αιώρηση"
+permalink: /tin-atyxi-aiorisi/
 author: true
 ---
 
