@@ -248,16 +248,16 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
   # pages
   - scope:
       type: pages
-      path: ""
+      path: "_pages"
     values:
       layout: single
       author_profile: false
       read_time: false
       comments: # true
-      share: true
+      share: false
       related: false
