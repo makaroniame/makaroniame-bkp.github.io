@@ -6,6 +6,8 @@ main:
    - title: "Ιστορία"
      url: /istoria/
    
+   - title: "Επικοινωνία"
+     url: /epikoinwnia/
      
 #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Σκαριφίματα - Συγγραφικά Καμώματα"
