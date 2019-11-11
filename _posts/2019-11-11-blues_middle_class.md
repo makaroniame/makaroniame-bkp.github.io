@@ -1,5 +1,5 @@
 ---
-title: "Τα μπλουζ της μεσαίας τάξης"
+title: "Τα μπλου(ζ) της μεσαίας τάξης"
 permalink: /middle_class_blues/
 author: true
 type: posts
