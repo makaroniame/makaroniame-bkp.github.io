@@ -1,5 +1,5 @@
 ---
-title: "\"Βαρεμάρα - Ενδοσκόπηση\" σημειώσατε 2"
+title: "'Βαρεμάρα - Ενδοσκόπηση' σημειώσατε 2"
 permalink: /endoskopisi/
 author: true
 type: posts
