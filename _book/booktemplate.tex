@@ -1,0 +1,113 @@
+\documentclass[12pt]{book}
+\usepackage[LGR, T1]{fontenc}
+\usepackage{alphabeta}
+\usepackage[width=4.375in, height=7.0in, top=1.0in, papersize={5.5in,8.5in}]{geometry}
+\usepackage[pdftex]{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{tipa}
+\usepackage{txfonts}
+\usepackage{textcomp}
+\usepackage{ragged2e}
+%\usepackage{amsthm}
+%\usepackage{array}
+%\usepackage{xy}
+\usepackage{fancyhdr}
+
+\usepackage[
+  hashEnumerators = false,
+  breakableBlockquotes = true,
+  headerAttributes = true,
+  shiftHeadings = 4,
+  startNumber = false,
+  hybrid = true,
+]{markdown}
+\usepackage{multicol}
+\usepackage{qrcode}
+
+
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+\fancyhf{}
+\fancyhead[LE,RO]{\bfseries\thepage}
+\fancyhead[LO]{\bfseries\rightmark}
+\fancyhead[RE]{\bfseries\leftmark}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0pt}
+\addtolength{\headheight}{0.5pt}
+\setlength{\footskip}{0in}
+\renewcommand{\footruleskip}{0pt}
+\fancypagestyle{plain}{%
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt}
+}
+%
+%\parindent 0in
+\parskip 0.05in
+%
+\begin{document}
+
+\setlength{\hsize}{0.85\hsize}
+\vspace{85mm}
+\justifying
+
+\frontmatter
+\pagenumbering{none}
+
+\chapter*{\Huge \center Ντέηβ \& Σάρα }
+\subsection*{\Huge \center Ιστορίες εγκλήματος, επανάστασης, έρωτα και ενδοσκόπησης}
+% \section*{\huge \center Γιάννης Μοντεχρήστος}
+\newpage
+
+\thispagestyle{empty}
+
+\chapter*{\center \normalsize Ντόπια αμερικάνικη λογοτεχνία}
+
+\setcounter{tocdepth}{1}
+\renewcommand*\contentsname{Περιεχόμενα}
+\tableofcontents{}
+
+\mainmatter
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{}{enumii}}
+\pagenumbering{arabic}
+\setcounter{page}{6}
+
+% ================= Chapters
+
+\chapter{Κομπίνα στο LA}
+\markdownInput{rsrc/2020-04-30-kompina_sto_la.md}
+\include{rsrc/2020-04-30-kompina_sto_la.tex}
+
+\chapter{Βενεζουελιανή Αιώρα}
+\markdownInput{rsrc/2020-05-29-venezueliani_aiora.md}
+\include{rsrc/2020-05-29-venezueliani_aiora.tex}
+
+\chapter{Κοινοβιο-Παγίδα}
+\markdownInput{rsrc/2020-07-02-koinoviopagida.md}
+\include{rsrc/2020-07-02-koinoviopagida.tex}
+
+\chapter{Μαγνητοφωνάκι στη Τζόρτζια}
+\markdownInput{rsrc/2020-08-07-magnitofonaki.md}
+\include{rsrc/2020-08-07-magnitofonaki.tex}
+
+\chapter{Ευχή από το Κάνσας Σίτυ}
+\markdownInput{rsrc/2021-05-26-eyxh_sto_kansas.md}
+\include{rsrc/2021-05-26-eyxh_sto_kansas.tex}
+
+\chapter{Μονόπετρο στο Ντουμπάι}
+\markdownInput{rsrc/2022-03-19-monopetro.md}
+\include{rsrc/2022-03-19-monopetro.tex}
+
+
+\backmatter
+
+\subsection*{\center \normalsize Copyright \copyright 2022 by Γιάννης Μοντεχρήστος}
+\subsection*{\center \normalsize All rights reserved.}
+\subsection*{\center \normalsize ISBN \dots}
+\subsection*{\center \normalsize \dots Publications}
+
+\end{document}
+
+
+
