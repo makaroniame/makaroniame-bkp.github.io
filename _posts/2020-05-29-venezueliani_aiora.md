@@ -1,5 +1,5 @@
 ---
-title: "Αιώρα στη Βενεζουέλα"
+title: "Αιώρα απ'τη Βενεζουέλα"
 permalink: /aiora/
 author: true
 type: posts
