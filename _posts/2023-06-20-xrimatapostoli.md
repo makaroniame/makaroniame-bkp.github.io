@@ -1,5 +1,5 @@
 ---
-title: "χρηματαποστολή ή 'η φράση που κερδίζει'"
+title: "Χρηματαποστολή ή 'Η Φράση Που Κερδίζει'"
 permalink: /xrimatapostoli/
 type: posts
 author: true
